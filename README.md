@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @milaisabel
 - 👀 I’m interested in horses
 - 🌱 I’m currently learning a little bit of everything
-- ⚡ Fun fact: I speak a bunch of lanuguages 
+- I am an aspiring cybersecurity expert 
+- ⚡ Fun fact: I speak 3 lanuguages 
 
 <!---
 milaisabel/milaisabel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
