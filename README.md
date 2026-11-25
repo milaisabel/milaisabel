@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @milaisabel
-- 👀 I’m interested in horses
 - 🌱 I’m currently learning a little bit of everything
 - I am an aspiring cybersecurity expert 
 - ⚡ Fun fact: I speak 3 lanuguages 
